@@ -6,8 +6,9 @@
   <img src="https://backiee.com/static/wallpapers/1000x563/386745.jpg" alt="New Image" />
 </p>
 
-
-- 🌱 I’m currently learning **Programming languages and about AI**
+- 🏫 I'm an Undergraduate at Plymouth University
+  
+- 🌱 I’m currently learning **Spring, Spring Boot and about AI**
 
 - 👨‍💻 All of my projects are available at [https://manul-portfolio.vercel.app/](https://manul-portfolio.vercel.app/)
 
