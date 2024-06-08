@@ -8,7 +8,7 @@
 
 - 🏫 I'm an Undergraduate at Plymouth University
   
-- 🌱 I’m currently learning **Spring, Spring Boot and about AI**
+- 🌱 I’m currently learning **Spring Boot, Next.js and about AI**
 
 - 👨‍💻 All of my projects are available at [https://manul-portfolio.vercel.app/](https://manul-portfolio.vercel.app/)
 
