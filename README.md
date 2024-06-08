@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **manulvinperera@gmail.com**
 
-- ⚡ Fun fact **Call me as Manu**
+- ⚡ Fun fact **Call me as Manuu**
 <hr/>
 <h3 align="left" style="color:blue;">Connect with me :-</h3>
 
